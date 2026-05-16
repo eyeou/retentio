@@ -1,0 +1,35 @@
+<svg width="900" height="680" viewBox="0 0 900 680" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="680" rx="22" fill="#0A0A0B"/>
+  <rect x="58" y="54" width="784" height="572" rx="18" fill="#F7EFE6" fill-opacity="0.045" stroke="#F7EFE6" stroke-opacity="0.13"/>
+  <g font-family="Inter, Arial, sans-serif">
+    <text x="94" y="118" fill="#F7EFE6" font-size="42" font-weight="780">Retentio</text>
+    <text x="96" y="154" fill="#B7A79B" font-size="17">Fragments become a memory you can stand inside again.</text>
+  </g>
+  <rect x="94" y="204" width="288" height="338" rx="8" fill="#FFFFFF" fill-opacity="0.055" stroke="#FFFFFF" stroke-opacity="0.13"/>
+  <rect x="414" y="204" width="392" height="338" rx="8" fill="#FFFFFF" fill-opacity="0.055" stroke="#FFFFFF" stroke-opacity="0.13"/>
+  <g fill="#F7EFE6" fill-opacity="0.16">
+    <rect x="122" y="240" width="116" height="10" rx="5"/>
+    <rect x="122" y="274" width="220" height="8" rx="4"/>
+    <rect x="122" y="298" width="190" height="8" rx="4"/>
+    <rect x="122" y="322" width="234" height="8" rx="4"/>
+    <rect x="122" y="366" width="226" height="72" rx="8"/>
+    <rect x="122" y="462" width="210" height="38" rx="8"/>
+  </g>
+  <rect x="122" y="568" width="198" height="34" rx="17" fill="#E4B574"/>
+  <text x="150" y="590" fill="#16100B" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="800">Reconstruct Memory</text>
+  <g font-family="Inter, Arial, sans-serif">
+    <text x="446" y="256" fill="#E4B574" font-size="14" font-weight="800" letter-spacing="3">EMOTIONAL CORE</text>
+    <text x="446" y="298" fill="#F7EFE6" font-size="26" font-weight="760">Orange Light At The Platform</text>
+    <text x="446" y="340" fill="#B7A79B" font-size="15">A tender transitional memory: travel, family humor, weather,</text>
+    <text x="446" y="364" fill="#B7A79B" font-size="15">and the ache of returning from somewhere bright.</text>
+  </g>
+  <path d="M450 430H752" stroke="#E4B574" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="486" cy="430" r="8" fill="#E4B574"/>
+  <circle cx="600" cy="430" r="8" fill="#B96B62"/>
+  <circle cx="716" cy="430" r="8" fill="#F7EFE6"/>
+  <g font-family="Inter, Arial, sans-serif" fill="#B7A79B" font-size="14">
+    <text x="452" y="478">First trace</text>
+    <text x="566" y="478">Context</text>
+    <text x="676" y="478">Recovered scene</text>
+  </g>
+</svg>
